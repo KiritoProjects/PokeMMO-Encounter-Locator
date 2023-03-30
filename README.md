@@ -1,0 +1,1 @@
+# PokeMMO-Encounter-Locator
